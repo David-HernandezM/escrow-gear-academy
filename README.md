@@ -1,1 +1,3 @@
-Template para poder crear Smart Contracts con el protocolo de Gear de una manera mas simple y rapida sin tener que configurar todo el contrato. Solo se guarda y se comienza a desarrollar directamente.
+# escrow-gear-academy
+
+Escrow homework with test - Gear Academy
