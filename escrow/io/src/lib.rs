@@ -9,7 +9,6 @@ use gear_lib::non_fungible_token::{
 use gmeta::{In, InOut, Out, Metadata};
 use gstd::{prelude::*, ActorId, msg};
 
-// pub use gear_lib::non_fungible_token::delegated::DelegatedApproveMessage;
 use primitive_types::H256;
 
 pub struct ProgramMetadata;
